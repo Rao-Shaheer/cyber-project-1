@@ -31,6 +31,7 @@ Detailed Exploitation
 The anatomy of a phishing attack involves multiple phases, including target selection, delivery, exploitation, installation, and command/control. A step-by-step breakdown reveals the intricacies of a typical phishing attack.
 
 **Mitigation Strategies.**
+
 Education and Awareness Training: Comprehensive training programs to educate users on identifying and avoiding phishing attacks.
 Implementation of Email Filtering: Employ advanced email filtering systems to detect and block phishing emails.
 Multi-Factor Authentication (MFA): Enhance security by requiring multiple forms of verification for access.
