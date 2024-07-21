@@ -1,46 +1,27 @@
-**Report on Phishing Attacks and Mitigation Strategies.**
+# Phishing Attack Demonstration using Zphisher
 
-**Introduction.**
+This repository contains a demonstration video of a phishing attack performed using the Zphisher tool.
 
-Phishing attacks are a prevalent form of cyber threats that exploit human psychology and vulnerabilities to gain unauthorized access to sensitive information. This report provides an overview of phishing attacks, the techniques employed by attackers, and measures to patch the vulnerabilities.
+## Video
 
-Exploiting Human Psychology.
+[Watch the demonstration video](your-video-file.mp4)
 
-Phishing attacks take advantage of human emotions such as trust, curiosity, fear, and urgency. Social engineering techniques are used to manipulate individuals into disclosing sensitive information, leading to unauthorized access.
+## About Zphisher
 
-**Vulnerabilities.**
+Zphisher is an automated phishing tool with 30+ templates. It supports various platforms and is one of the most popular phishing tools available.
 
-Trust: Attackers exploit the trust individuals have in seemingly legitimate sources.
-Curiosity: Clickbait and enticing content are designed to trigger curiosity and encourage users to click on malicious links.
-Fear and Urgency: Threats or urgent messages create panic, compelling individuals to act impulsively.
+### Features
 
-**Tools Used in Exploitation.**
-Phishing attacks utilize various tools, including:
+- Easy to use
+- Predefined templates for various websites
+- Supports multiple tunneling options
+- Mobile friendly
 
-Phishing kits: Packages containing pre-built phishing websites to facilitate attacks.
-Keyloggers: Software that records keystrokes to capture sensitive information.
-Malware: Malicious software designed to infiltrate systems and steal data.
-Zphisher: An open-source framework used for phishing attacks.
-Open Source Frameworks
-Gophish: A framework for simulating phishing attacks and assessing user responses.
-Social-Engineer Toolkit (SET): A versatile toolkit for social engineering attacks, including phishing.
-Techniques Used in Phishing Attacks
-Spoofed Websites: Creation of fake websites that mimic legitimate ones to deceive users.
-Fake Emails: Crafting emails that appear genuine to trick recipients into revealing sensitive information.
-Detailed Exploitation
-The anatomy of a phishing attack involves multiple phases, including target selection, delivery, exploitation, installation, and command/control. A step-by-step breakdown reveals the intricacies of a typical phishing attack.
+## Installation
 
-**Mitigation Strategies.**
+To install Zphisher, follow these steps:
 
-Education and Awareness Training: Comprehensive training programs to educate users on identifying and avoiding phishing attacks.
-Implementation of Email Filtering: Employ advanced email filtering systems to detect and block phishing emails.
-Multi-Factor Authentication (MFA): Enhance security by requiring multiple forms of verification for access.
-Secure Browsing Habits: Encourage users to adopt secure browsing practices and be cautious when interacting with online content.
-Patching Measures
-
-Regular Software Updates and Patches: Ensure all software is up-to-date with the latest security patches to address vulnerabilities.
-Employee Training Programs: Regularly train employees to recognize phishing attempts and respond appropriately.
-
-**Conclusion**
-
-Phishing attacks pose a significant threat to individuals and organizations. Combating these threats requires a combination of technological solutions, user education, and the adoption of secure practices. Implementing robust cybersecurity measures is essential to safeguard against evolving phishing techniques
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/htr-tech/zphisher
+   cd zphisher
